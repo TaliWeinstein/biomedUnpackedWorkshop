@@ -10,7 +10,7 @@ This activity was broken up into stages to ensure participants were able to:
 2. Enable the participants to get the light sensor configured via the **LightSensor.io** file
 3. Put everything together to monitor their (ppg) graphically via the**PulseWaves.io** file
 
-Each file has its corresponding solutions whereby the code has been completed according to the exercises in the **Solution Development Pack.pdf**. The **VolenteerPack.pdf** consists of the information provided to the volenteers in the workshop who were assisting participants. 
+Each file has its corresponding solutions whereby the code has been completed according to the exercises in the **softwarePack.pdf**. The **VolunteerPack.pdf** consists of the information provided to the volenteers in the workshop who were assisting participants. 
 
 ## Additional Resources
 More infromation about the events creation can be found [here](https://taliweinstein.github.io/project/womeng/), while additional information about the actual workshop slides and presentation can be found [here](https://taliweinstein.github.io/talk/biomedical-engineering-unpacked-workshop/).
